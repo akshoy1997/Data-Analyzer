@@ -1,7 +1,7 @@
 # Data-Analyzer
 A HTML+AJAX application using (PHP+MySQL) in backend to convert csv files to table and also perform SQL operations.
 
-## Few Points to be Mentioned about the Application.
+## Few Points to be Mentioned about the Application
 
 DATA ANALYZER is an UI application which has the following features:
 
@@ -12,7 +12,7 @@ DATA ANALYZER is an UI application which has the following features:
 * Exports the resultant query into an output file 'output.csv'.
 * Uses this exported file to store into a new record and also displays this record on the slider.
 
-## Few Points About My Code:
+## Few Points About My Code
 
 Entire Coding is done using:
  FrontEnd -> HTML, BootStrap, Jquery
@@ -24,7 +24,7 @@ Entire Coding is done using:
 * No hard coding of Primary Keys or record names. 
 * The output record is 'output.csv' and the record is stored in 'table' in PHPmyadmin.
 
-## Few Points Regarding Files and Folders:
+## Few Points Regarding Files and Folders
 
 * Screenshots of the application is stored in Screenshots Folder.
 * Uploads is stored in uploads folder.
